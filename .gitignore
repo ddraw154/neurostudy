@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Living Core runtime state
+*.npz
+*.npy
+*.log
+*.log.gz
+*.jsonl
+*.jsonl.gz
+browser_responses_*/
+
+# Generated analysis exports
+*.csv
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
